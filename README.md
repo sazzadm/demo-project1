@@ -1,3 +1,3 @@
-#Learning Git
+##Learning Git
 
-This is my first project.
+This Is My First Project.

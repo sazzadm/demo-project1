@@ -1,3 +1,4 @@
 I am learning git and git-hub.This is my first project on git.
-I modified it fot the first time.
+I modified it for the first time.
+Finally i modified it for 5th commit.
 
