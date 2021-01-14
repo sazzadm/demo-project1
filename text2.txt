@@ -1,2 +1,3 @@
 I am learning git and git-hub.
 This is the second text file.
+text2 file change for the third commit.
